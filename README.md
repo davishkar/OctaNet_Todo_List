@@ -2,7 +2,7 @@
 
 Welcome to the OctaNet To-Do List project! This is a web-based application created for managing daily tasks using HTML, CSS, and JavaScript. 
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=livechat)](https://davishkar.github.io/CodeAlpha_TO-DO-LIST/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=livechat)](https://davishkar.github.io/OctaNet_Todo_List/)
 
 ## Description
 
@@ -21,7 +21,7 @@ This project is a To-Do List web application that allows users to easily create,
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/davishkar/CodeAlpha_TO-DO-LIST.git
+git clone https://github.com/davishkar/OctaNet_Todo_List.git
 ```
 
 2. Open `index.html` in your web browser.
